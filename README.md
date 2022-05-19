@@ -8,7 +8,7 @@ Focus on flutter.
 ![Anrdoid](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![unity](https://img.shields.io/badge/-unity-black?style=flat-square&logo=unity)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
